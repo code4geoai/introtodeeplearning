@@ -139,3 +139,5 @@ dmypy.json
 
 #Hayat changes
 /lab2/data/*
+HayatLabs/data/*
+HayatLabs/data/MNIST/raw/train-labels-*
